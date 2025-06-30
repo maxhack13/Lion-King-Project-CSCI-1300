@@ -6,7 +6,7 @@ using namespace std;
 // comparison functions
 bool doublesEquals(double a, double b, const double epsilon = 1e-2);
 // validation functions
-bool validateInteger(string input);
+bool validateInteger(string input);  
 bool validateDouble(string input);
 // print array functions
 void printStringArray(string input[], int size);

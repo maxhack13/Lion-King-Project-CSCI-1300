@@ -12,7 +12,7 @@ Player::Player()
     _pride_points = 0;
     _strength = 100;
     _advisor = 0;
-    _endofGame = false;
+    _endofGame = false;    
 }
 Player::Player(string name, int strength, int stamina, int wisdom)
 {

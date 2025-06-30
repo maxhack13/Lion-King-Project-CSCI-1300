@@ -1,0 +1,22 @@
+GAME STATS
+Player 1's stats: 
+Zuri, 7 years old
+strength: 1300
+stamina: 600
+wisdom: 2600
+PridePoints: 15900
+Advisor: Zazu-Weather Control
+Path Chosen: Cub Training.
+Total Final Pride Points: 60900
+---------------------------------------
+Player 2's stats: 
+Apollo, 5 years old
+strength: 600
+stamina: 600
+wisdom: 1600
+PridePoints: 18800
+Advisor: 
+Path Chosen: Cub Training.
+Total Final Pride Points: 46800
+Player 1 wins and will rule the Pridelands!!!
+---------------------------------------
